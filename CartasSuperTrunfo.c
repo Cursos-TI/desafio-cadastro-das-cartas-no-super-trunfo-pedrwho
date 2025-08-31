@@ -37,7 +37,7 @@ int main() {
 
     // Cálculos
     densidade1 = populacao1 / area1;
-    pibPerCapita1 = pib1 / populacao1; // PIB permanece em bilhões
+    pibPerCapita1 = pib1 / populacao1;
 
     printf("\nCarta 2:\n");
     printf("Digite o estado: ");
@@ -57,7 +57,7 @@ int main() {
 
     // Cálculos
     densidade2 = populacao2 / area2;
-    pibPerCapita2 = pib2 / populacao2; // PIB permanece em bilhões
+    pibPerCapita2 = pib2 / populacao2;
 
     printf("\n--- RESULTADOS ---\n");
 
